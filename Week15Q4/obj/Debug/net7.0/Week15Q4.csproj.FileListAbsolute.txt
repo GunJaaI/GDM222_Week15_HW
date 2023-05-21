@@ -1,0 +1,15 @@
+E:\WorkAtHome\P2.2\GDM222\GDM222_Week15\Week15Q4\bin\Debug\net7.0\Week15Q4.exe
+E:\WorkAtHome\P2.2\GDM222\GDM222_Week15\Week15Q4\bin\Debug\net7.0\Week15Q4.deps.json
+E:\WorkAtHome\P2.2\GDM222\GDM222_Week15\Week15Q4\bin\Debug\net7.0\Week15Q4.runtimeconfig.json
+E:\WorkAtHome\P2.2\GDM222\GDM222_Week15\Week15Q4\bin\Debug\net7.0\Week15Q4.dll
+E:\WorkAtHome\P2.2\GDM222\GDM222_Week15\Week15Q4\bin\Debug\net7.0\Week15Q4.pdb
+E:\WorkAtHome\P2.2\GDM222\GDM222_Week15\Week15Q4\obj\Debug\net7.0\Week15Q4.csproj.AssemblyReference.cache
+E:\WorkAtHome\P2.2\GDM222\GDM222_Week15\Week15Q4\obj\Debug\net7.0\Week15Q4.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkAtHome\P2.2\GDM222\GDM222_Week15\Week15Q4\obj\Debug\net7.0\Week15Q4.AssemblyInfoInputs.cache
+E:\WorkAtHome\P2.2\GDM222\GDM222_Week15\Week15Q4\obj\Debug\net7.0\Week15Q4.AssemblyInfo.cs
+E:\WorkAtHome\P2.2\GDM222\GDM222_Week15\Week15Q4\obj\Debug\net7.0\Week15Q4.csproj.CoreCompileInputs.cache
+E:\WorkAtHome\P2.2\GDM222\GDM222_Week15\Week15Q4\obj\Debug\net7.0\Week15Q4.dll
+E:\WorkAtHome\P2.2\GDM222\GDM222_Week15\Week15Q4\obj\Debug\net7.0\refint\Week15Q4.dll
+E:\WorkAtHome\P2.2\GDM222\GDM222_Week15\Week15Q4\obj\Debug\net7.0\Week15Q4.pdb
+E:\WorkAtHome\P2.2\GDM222\GDM222_Week15\Week15Q4\obj\Debug\net7.0\Week15Q4.genruntimeconfig.cache
+E:\WorkAtHome\P2.2\GDM222\GDM222_Week15\Week15Q4\obj\Debug\net7.0\ref\Week15Q4.dll
